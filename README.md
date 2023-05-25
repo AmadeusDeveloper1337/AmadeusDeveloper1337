@@ -8,7 +8,7 @@
 <a />
   <h2>About me</h2>
   
-  Hello there! I am a student who is passionate about programming, specifically full-stack development using Python (Django) and JavaScript/Node.js (Nest.js). I enjoy constantly learning and improving my skills, and I especially love the bugs :D
+  I am a student who is passionate about programming, specifically full-stack development using Python (Django) and JavaScript/Node.js (Nest.js). I enjoy constantly learning and improving my skills, and I especially love the bugs :D
   <h2>Languages, utilities and frameworks</h2>
   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
