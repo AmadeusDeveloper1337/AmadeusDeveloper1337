@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Nikita <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior JS & Python Back-end developer from Russia 🇷🇺</h3>
+
 <a href="https://wakatime.com/@Amadeus" target="_blank">
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amadeus&border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats">
 <a/>
