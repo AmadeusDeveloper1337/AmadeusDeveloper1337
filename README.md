@@ -4,9 +4,9 @@
 <a href="https://wakatime.com/@Amadeus" target="_blank">
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amadeus">
 <a/>
-<a href="https://discord.com/users/747815436816744540" target="_blank">
-  <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/747815436816744540?theme=light&borderRadius=5px">
-<a />
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/747815436816744540)](https://discord.com/users/747815436816744540)
+
   <h2>About me</h2>
   
   I am a student who is passionate about programming, specifically full-stack development using Python (Django) and JavaScript/Node.js (Nest.js). I enjoy constantly learning and improving my skills, and I especially love the bugs :D
