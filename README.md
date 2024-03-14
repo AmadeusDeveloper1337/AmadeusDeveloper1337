@@ -2,7 +2,7 @@
 <h3 align="center">Junior JS Back-end developer from Russia 🇷🇺</h3>
 
 <a href="https://wakatime.com/@Amadeus" target="_blank">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amadeus">
+  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amadeus">
 <a/>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/747815436816744540)](https://discord.com/users/747815436816744540)
